@@ -4,7 +4,7 @@ const tenplate = `Olá ${nome} !!` //formatação em javascript
 
 console.log(tenplate, concatenacao)
 
-//expreções
+//expressões
 console.log(`1 + 1 = ${1 + 1}`)
 
 const pracima = texto => texto.toUpperCase()
