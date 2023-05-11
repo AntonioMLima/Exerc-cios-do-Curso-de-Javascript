@@ -1,5 +1,5 @@
-const [a] = [10]
-console.log(a)
+const [a, b] = [10, 1]
+console.log(b)
 
 const d = [10, 7, 9 , 8]
 

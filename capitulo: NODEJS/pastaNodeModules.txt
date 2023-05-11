@@ -1,0 +1,7 @@
+--> Recriar a pasta com módulos de terceiro (node_modules) é bem simples, basta possuir o arquivo
+'package.json' e executar o comanda 'npm -i'
+
+--> O arquivo package.json possui particularidades muito interessantes, como os scripts,
+que são comandos que executam alguma taréfa definida pelo desenvolvedor a partir do comando
+'npu run [comando]' ou 'npm [comando]'
+
